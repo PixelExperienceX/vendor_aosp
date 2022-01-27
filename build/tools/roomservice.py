@@ -46,7 +46,7 @@ custom_local_manifest = ".repo/local_manifests/pixel.xml"
 custom_default_revision =  os.getenv('ROOMSERVICE_DEFAULT_BRANCH', 'twelve-plus')
 custom_dependencies = "aosp.dependencies"
 org_manifest = "pixel-devices"  # leave empty if org is provided in manifest
-org_display = "PixelExperience-Devices"  # needed for displaying
+org_display = "PixelExperienceX-Devices"  # needed for displaying
 
 github_auth = None
 
