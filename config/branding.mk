@@ -1,7 +1,7 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 #Pixel Experience X Props
-PEX_BASE_VERSION = 1.4
+PEX_BASE_VERSION = 1.6
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
