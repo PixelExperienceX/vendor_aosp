@@ -20,6 +20,7 @@ endif
 
 # Versioning props
 ADDITIONAL_SYSTEM_PROPERTIES  += \
+    org.pixelexperiencex.device=$(CUSTOM_DEVICE) \
     org.pixelexperiencex.version=$(PEX_BASE_VERSION) \
     org.pixelexperiencex.version.display=$(CUSTOM_VERSION) \
     org.pixelexperiencex.build_date=$(CUSTOM_BUILD_DATE) \
